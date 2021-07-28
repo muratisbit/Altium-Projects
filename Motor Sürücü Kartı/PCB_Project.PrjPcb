@@ -28,87 +28,16 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for PCB_Project
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-VaultGUID=
-ReleaseVaultName=
-ItemGUID=
 
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=Sheet1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HOYMBZKB
-
-[Document2]
-DocumentPath=PCB1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=GNBRSRBT
-
-[Document3]
-DocumentPath=PcbLib1.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VXIXAPUB
-
-[Document4]
-DocumentPath=Schlib1.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=JGQBYKEC
-
-[Document5]
 DocumentPath=Driver.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +54,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SZHRHJYA
 
-[Document6]
+[Document2]
 DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,8 +71,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UONXKOYS
 
-[Document7]
-DocumentPath=PCB_Project.IntLib
+[Document3]
+DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -159,8 +88,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
-DocumentPath=..\Job1.OutJob
+[Document4]
+DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,222 +104,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\BOM\Bill of Materials-PCB_Project.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for PCB_Project\Design Rule Check - PCB1.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for PCB_Project\PCB1.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_Project\PCB1.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.G1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for PCB_Project\PCB1.G1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.G2
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_Project\PCB1.G2
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for PCB_Project\PCB1.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for PCB_Project\PCB1.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for PCB_Project\PCB1.REP
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Free Documents\Gerber\PCB1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for PCB_Project\PCB1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for PCB_Project\PCB1.TX1
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for PCB_Project\PCB1.TX2
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for Free Documents\NC Drill\PCB1.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for PCB_Project\PCB1.TXT
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -403,7 +116,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for PCB_Project
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1026,6 +739,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
